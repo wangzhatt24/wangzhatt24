@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @luckyboyheoby aka Dương Quang Nhất Pro aka QNP aka đẹp trai, tài hoa, phong độ, ngọc thụ, lâm phong, thiên hạ, vô địch
+- 👋 Hi, I’m @luckyboyheoby aka Dương Quang Nhất Pro 
 - 👀 I’m interested in money, something funny, career, programming, hacking,...
 - 🌱 I’m currently learning c, cpp, java, sql, html, css, js, maybe more,..
 - 💞️ I’m looking to collaborate on d don't know
