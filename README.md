@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @luckyboyheoby aka Dương Quang Nhất
-- 👀 I’m interested in money, something funny, career, programming, hacking,...
+- 👋 Hi, I’m Dương Quang Nhất
+- 👀 I’m interested in funny things, career, programming, hacking,...
 - 🌱 I’m currently learning c, cpp, java, sql, html, css, js, maybe more,..
 - 📫 How to reach me: quangnhatpr9@gmail.com
 
