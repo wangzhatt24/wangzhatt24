@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Dương Quang Nhất
-- 👀 I’m interested in funny things, career, programming, hacking,...
-- 🌱 I’m currently learning c, cpp, java, sql, html, css, js, maybe more,..
+- 👋 Hi, I’m Dương Quang Nhất, just call me Tyler
 - 📫 How to reach me: quangnhatpr9@gmail.com
 
 
